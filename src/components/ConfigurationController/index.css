@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.configuration-controls-container {
+  background-color: #455568;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: 'roboto';
+  padding: 10px;
+}
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 20px 20px;
+}
+.label-text {
+  margin-left: 10px;
+}

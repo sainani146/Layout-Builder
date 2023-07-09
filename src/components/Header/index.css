@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.Header-section {
+  background-color: #c8d4dc;
+  color: #64748b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+}
